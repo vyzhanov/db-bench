@@ -17,7 +17,7 @@
     "@faker-js/faker": "^7.4.0",
     "benny": "^3.7.1",
     "cli-progress": "^3.11.2",
-    "knex": "^2.2.0",
+    "knex": "^3.0.0",
     "pg": "^8.7.3"
   },
   "devDependencies": {

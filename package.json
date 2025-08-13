@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@faker-js/faker": "^7.4.0",
+    "@faker-js/faker": "^9.0.0",
     "benny": "^3.7.1",
     "cli-progress": "^3.11.2",
     "knex": "^2.2.0",
